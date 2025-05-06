@@ -12,4 +12,7 @@ Este repositório contém 3 exercícios em Java que abordam o tratamento de exce
 
 3. **Consulta de Usuário do GitHub**
    - Desenvolva um programa Java que permite aos usuários consultar informações sobre um usuário do GitHub (use a API pública do GitHub para obter os dados). Crie uma classe de exceção personalizada, `ErroConsultaGitHubException`, que estende `RuntimeException`. Lançe essa exceção quando o nome de usuário não for encontrado. No bloco catch, trate essa exceção especificamente exibindo uma mensagem amigável.
-   - 
+
+
+## By Alura Course
+
